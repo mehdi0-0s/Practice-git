@@ -9,5 +9,6 @@ void print_hello()
 int main()
 {
     print_hello();
+    cout << "mehdi salahshouri *=*" << endl;
     return 0;
 }
