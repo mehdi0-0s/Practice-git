@@ -9,5 +9,6 @@ void print_hello()
 int main()
 {
     print_hello();
+    cout << " ! NULL" << endl;
     return 0;
 }
